@@ -1,1 +1,4 @@
-ReactDOM.render(<h1>GOODEVENINNNN' LADIES - VAL VENUS VOICE</h1>, document.getElementById('root'))
+ReactDOM.render(<ul>
+    <li>Cheesy Grits</li>
+    <li>Eggs</li>    
+</ul>, document.getElementById('root'))
